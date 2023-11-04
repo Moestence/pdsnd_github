@@ -4,13 +4,13 @@
 This file was created 4th of November 2023
 
 ### Project Title
-Replace the Project Title
+Post your work on Github
 
 ### Description
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+Bikeshare.py, Washington, Chicago and New york csv file.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
